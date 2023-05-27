@@ -1,0 +1,13 @@
+/* Show case */
+#showcase{
+    background: url(../img/showcase_bg.jpg);
+    height: 600px;
+    padding-top: 150px;
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+
+#showcase h1 {
+    padding-top: 150px;
+}
